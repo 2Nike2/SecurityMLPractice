@@ -163,3 +163,5 @@ cython_debug/
 chapter02/dataset.csv
 chapter02/enron1/*
 chapter02/enron1.zip
+chapter03/MalwareData.csv
+chapter03/MalwareData.csv.gz
