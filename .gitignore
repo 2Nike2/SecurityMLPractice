@@ -165,3 +165,8 @@ chapter02/enron1/*
 chapter02/enron1.zip
 chapter03/MalwareData.csv
 chapter03/MalwareData.csv.gz
+chapter03/archive.zip
+chapter03/train.csv
+
+# Mac
+.DS_Store
