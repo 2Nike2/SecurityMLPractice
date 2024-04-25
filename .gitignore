@@ -167,6 +167,7 @@ chapter03/MalwareData.csv
 chapter03/MalwareData.csv.gz
 chapter03/archive.zip
 chapter03/train.csv
+chapter04/pe
 
 # Mac
 .DS_Store
