@@ -168,6 +168,12 @@ chapter03/MalwareData.csv.gz
 chapter03/archive.zip
 chapter03/train.csv
 chapter04/pe
+chapter04/ember_dataset_2018_2.tar.bz2
+chapter04/ember/*
+chapter04/ember_data/*
+
+# env
+venv2
 
 # Mac
 .DS_Store
