@@ -10,3 +10,5 @@ ydata-profiling==4.7.0
 ipywidgets==8.1.2
 lief==0.14.1
 imageio==2.34.1
+tweepy==4.14.0
+python-dotenv==1.0.1
