@@ -178,7 +178,7 @@ chapter04/malimg_dataset.zip
 chapter04/malimg_dataset
 chapter04/putty.png
 chapter06/HostLogons-demo.csv
-
+chapter07/HttpParamsDataset/*
 # env
 venv2
 
