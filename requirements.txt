@@ -15,3 +15,5 @@ python-dotenv==1.0.1
 statsmodels==0.14.2
 prophet==1.1.5
 msticpy==2.12.0
+adversarial-robustness-toolbox==1.17.1
+tensorflow==2.16.1
